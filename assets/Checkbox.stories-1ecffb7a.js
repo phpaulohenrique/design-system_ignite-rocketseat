@@ -1,0 +1,2 @@
+import{C as e,B as o,T as s}from"./index-8c31b0f0.js";import{a as t,j as a}from"./jsx-runtime-2f8dd922.js";import"./index-421e7164.js";import"./iframe-eb434a1a.js";import"./index-23ab4567.js";const l={title:"Form/Checkbox",component:e,args:{},decorators:[r=>t(o,{as:"label",css:{display:"flex",flexDirection:"row",gap:"$2"},children:[r(),a(s,{size:"sm",children:"Accept terms of use"})]})]},n={args:{"aria-label":"checkbox to accept the terms of use"}},d=["Primary"];export{n as Primary,d as __namedExportsOrder,l as default};
+//# sourceMappingURL=Checkbox.stories-1ecffb7a.js.map
