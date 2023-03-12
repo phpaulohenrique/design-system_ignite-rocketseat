@@ -1,4 +1,4 @@
 {
-    "extends": "@ignite-ui/ts-config/react.json",
+    "extends": "@ph-ignite-ui/ts-config/react.json",
     "include": ["src", "../react/src/components/Avatar"]
 }
